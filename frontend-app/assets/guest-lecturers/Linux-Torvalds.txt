@@ -1,0 +1,1 @@
+Linux is an open-source operating system built on the Unix kernel. It provides a free and customizable platform for running various software applications. In a discussion about Linux, topics may include its robustness, security, flexibility, and vast community support. Students will explore and go deep into the world of Linux and learn alot to make them industry-ready.
